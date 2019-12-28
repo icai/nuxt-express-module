@@ -1,9 +1,9 @@
 # nuxt-express-module
-[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-express-module/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-express-module)
-[![npm](https://img.shields.io/npm/dt/nuxt-express-module.svg?style=flat-square)](https://npmjs.com/package/nuxt-express-module)
-[![CircleCI](https://img.shields.io/circleci/project/github/uptownhr/nuxt-express-module.svg?style=flat-square)](https://circleci.com/gh/uptownhr/nuxt-express-module)
-[![Codecov](https://img.shields.io/codecov/c/github/uptownhr/nuxt-express-module.svg?style=flat-square)](https://codecov.io/gh/uptownhr/nuxt-express-module)
-[![Dependencies](https://david-dm.org/uptownhr/nuxt-express-module/status.svg?style=flat-square)](https://david-dm.org/uptownhr/nuxt-express-module)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@w3cub/nuxt-express-module/latest.svg?style=flat-square)](https://npmjs.com/package/@w3cub/nuxt-express-module)
+[![npm](https://img.shields.io/npm/dt/@w3cub/nuxt-express-module.svg?style=flat-square)](https://npmjs.com/package/@w3cub/nuxt-express-module)
+[![CircleCI](https://img.shields.io/circleci/project/github/uptownhr/@w3cub/nuxt-express-module.svg?style=flat-square)](https://circleci.com/gh/uptownhr/@w3cub/nuxt-express-module)
+[![Codecov](https://img.shields.io/codecov/c/github/uptownhr/@w3cub/nuxt-express-module.svg?style=flat-square)](https://codecov.io/gh/uptownhr/@w3cub/nuxt-express-module)
+[![Dependencies](https://david-dm.org/uptownhr/@w3cub/nuxt-express-module/status.svg?style=flat-square)](https://david-dm.org/uptownhr/@w3cub/nuxt-express-module)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
 > 
@@ -48,6 +48,9 @@ module.exports = router
 
 ### expressPath
 Overrides the default path of where the express directory is
+
+### setupPath
+Overrides the default path of where the express app file is
 
 ### routesPath
 Overrides the default path of where express/routes/index.js is located

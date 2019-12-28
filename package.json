@@ -1,6 +1,6 @@
 {
   "name": "@w3cub/nuxt-express-module",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "",
   "license": "MIT",
   "contributors": [
@@ -33,11 +33,11 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "decache": "^4.5.1"
   },
   "devDependencies": {
     "codecov": "latest",
-    "decache": "^4.5.1",
     "eslint": "latest",
     "eslint-config-standard": "latest",
     "eslint-plugin-import": "latest",
