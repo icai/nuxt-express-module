@@ -1,11 +1,14 @@
 {
   "name": "nuxt-express-module",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "",
   "license": "MIT",
   "contributors": [
     {
       "name": "James Lee <uptownhr@gmail.com>"
+    },
+    {
+      "name": "Terry Cai <gidcai@gmail.com>"
     }
   ],
   "main": "lib/module.js",
@@ -15,7 +18,7 @@
   },
   "scripts": {
     "dev": "nuxt test/fixture",
-    "lint": "eslint lib test",
+    "lint": "eslint lib test --fix",
     "test": "npm run lint && jest",
     "release": "standard-version && git push --follow-tags && npm publish"
   },
@@ -30,10 +33,11 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "codecov": "latest",
+    "decache": "^4.5.1",
     "eslint": "latest",
     "eslint-config-standard": "latest",
     "eslint-plugin-import": "latest",

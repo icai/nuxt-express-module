@@ -20,12 +20,12 @@ describe('basic', () => {
   })
 
   test('render', async () => {
-    let html = await get('/')
+    const html = await get('/')
     expect(html).toContain('Works!')
   })
 
   test('get express path', async () => {
-    let response = await get('/api/test')
+    const response = await get('/api/test')
     expect(response).toBe('testing success')
   })
 })
