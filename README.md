@@ -15,17 +15,17 @@
 Provides `express` and `express/routes` directory to write express routes within nuxt. The module will watch for all files within the `express` directory for changes and hot-reload without taking down the entire nuxt server.
 
 ## Setup
-- Add `nuxt-express-module` dependency using yarn or npm to your project
-- Add `nuxt-express-module` to `modules` section of `nuxt.config.js`
+- Add `@w3cub/nuxt-express-module` dependency using yarn or npm to your project
+- Add `@w3cub/nuxt-express-module` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
     // Simple usage
-    'nuxt-express-module',
+    '@w3cub/nuxt-express-module',
 
     // With options
-    ['nuxt-express-module', { /* module options */ }],
+    ['@w3cub/nuxt-express-module', { /* module options */ }],
  ]
 }
 ```
