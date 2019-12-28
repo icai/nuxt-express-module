@@ -1,6 +1,8 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.0.14](https://github.com/icai/nuxt-express-module/compare/v0.0.13...v0.0.14) (2019-12-28)
 
 <a name="0.0.11"></a>
 ## [0.0.11](https://github.com/compare/v0.0.10...v0.0.11) (2018-04-06)

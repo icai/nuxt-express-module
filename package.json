@@ -1,6 +1,6 @@
 {
   "name": "@w3cub/nuxt-express-module",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "",
   "license": "MIT",
   "contributors": [
@@ -20,7 +20,7 @@
     "dev": "nuxt test/fixture",
     "lint": "eslint lib test --fix",
     "test": "npm run lint && jest",
-    "release": "standard-version && git push --follow-tags && npm publish"
+    "release": "standard-version && git push --follow-tags && npm publish --access public"
   },
   "eslintIgnore": [
     "lib/templates/*.*"
