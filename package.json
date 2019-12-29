@@ -1,6 +1,6 @@
 {
   "name": "@w3cub/nuxt-express-module",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "",
   "license": "MIT",
   "contributors": [
@@ -37,6 +37,7 @@
     "decache": "^4.5.1"
   },
   "devDependencies": {
+    "@w3cub/isrequire": "^1.0.4",
     "codecov": "latest",
     "eslint": "latest",
     "eslint-config-standard": "latest",
