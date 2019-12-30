@@ -1,9 +1,9 @@
 # nuxt-express-module
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@w3cub/nuxt-express-module/latest.svg?style=flat-square)](https://npmjs.com/package/@w3cub/nuxt-express-module)
 [![npm](https://img.shields.io/npm/dt/@w3cub/nuxt-express-module.svg?style=flat-square)](https://npmjs.com/package/@w3cub/nuxt-express-module)
-[![CircleCI](https://img.shields.io/circleci/project/github/uptownhr/@w3cub/nuxt-express-module.svg?style=flat-square)](https://circleci.com/gh/uptownhr/@w3cub/nuxt-express-module)
-[![Codecov](https://img.shields.io/codecov/c/github/uptownhr/@w3cub/nuxt-express-module.svg?style=flat-square)](https://codecov.io/gh/uptownhr/@w3cub/nuxt-express-module)
-[![Dependencies](https://david-dm.org/uptownhr/@w3cub/nuxt-express-module/status.svg?style=flat-square)](https://david-dm.org/uptownhr/@w3cub/nuxt-express-module)
+[![CircleCI](https://img.shields.io/circleci/project/github/icai/nuxt-express-module.svg?style=flat-square)](https://circleci.com/gh/icai/nuxt-express-module)
+[![Codecov](https://img.shields.io/codecov/c/github/icai/nuxt-express-module.svg?style=flat-square)](https://codecov.io/gh/icai/nuxt-express-module)
+[![Dependencies](https://david-dm.org/icai/nuxt-express-module/status.svg?style=flat-square)](https://david-dm.org/icai/nuxt-express-module)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
 > 
