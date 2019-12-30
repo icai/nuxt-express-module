@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.19](https://github.com/icai/nuxt-express-module/compare/v0.0.18...v0.0.19) (2019-12-30)
+
+
+### Bug Fixes
+
+* **docs:** badge url error ([f0463a1](https://github.com/icai/nuxt-express-module/commit/f0463a1aa271fba1a688b489db522fbaca0a4e1a))
+
 ### [0.0.18](https://github.com/icai/nuxt-express-module/compare/v0.0.17...v0.0.18) (2019-12-29)
 
 ### [0.0.17](https://github.com/icai/nuxt-express-module/compare/v0.0.16...v0.0.17) (2019-12-29)
