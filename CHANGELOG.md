@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.21](https://github.com/icai/nuxt-express-module/compare/v0.0.20...v0.0.21) (2020-01-01)
+
+
+### Bug Fixes
+
+* **ci:** docker image ([039733c](https://github.com/icai/nuxt-express-module/commit/039733c4f9f66442a8dd442e73c0e7f2f3f075de))
+
 ### [0.0.20](https://github.com/icai/nuxt-express-module/compare/v0.0.19...v0.0.20) (2020-01-01)
 
 
