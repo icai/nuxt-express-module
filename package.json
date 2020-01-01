@@ -50,6 +50,6 @@
     "jest": "latest",
     "nuxt": "latest",
     "standard-version": "latest",
-    "upath": "latest"
+    "upath": "^1.2.0"
   }
 }
