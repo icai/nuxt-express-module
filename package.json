@@ -48,7 +48,6 @@
     "eslint-plugin-standard": "latest",
     "eslint-plugin-vue": "latest",
     "jest": "latest",
-    "jsdom": "latest",
     "nuxt": "latest",
     "standard-version": "latest"
   }
