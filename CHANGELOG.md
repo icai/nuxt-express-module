@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.20](https://github.com/icai/nuxt-express-module/compare/v0.0.19...v0.0.20) (2020-01-01)
+
+
+### Bug Fixes
+
+* **ci:**  circleci launch error ([b139bcd](https://github.com/icai/nuxt-express-module/commit/b139bcdd454221db02a714bf4bd4e90e81c19d90))
+
 ### [0.0.19](https://github.com/icai/nuxt-express-module/compare/v0.0.18...v0.0.19) (2019-12-30)
 
 
