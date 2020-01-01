@@ -15,7 +15,7 @@ jobs:
       # Install dependencies
       - run:
           name: Install Dependencies
-          command: NODE_ENV=dev npm i && npm audit fix
+          command: NODE_ENV=dev npm install --package-lock && npm audit fix
 
       # Keep cache
       - save_cache:
