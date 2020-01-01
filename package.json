@@ -49,7 +49,6 @@
     "eslint-plugin-vue": "latest",
     "jest": "latest",
     "nuxt": "latest",
-    "standard-version": "latest",
-    "upath": "^1.2.0"
+    "standard-version": "latest"
   }
 }
