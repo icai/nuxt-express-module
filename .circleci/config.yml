@@ -31,4 +31,5 @@ jobs:
       # Coverage
       - run:
           name: Coverage
-          command: npm codecov
+          command: yarn codecov
+
