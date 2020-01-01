@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.22](https://github.com/icai/nuxt-express-module/compare/v0.0.21...v0.0.22) (2020-01-01)
+
+
+### Bug Fixes
+
+* **ci:**  codecov report script ([6b71403](https://github.com/icai/nuxt-express-module/commit/6b71403655b130c75d49b4280763442b3646596d))
+* **ci:** change node image ([cf108ce](https://github.com/icai/nuxt-express-module/commit/cf108ce3719fe293036127851c69c43785ffbb27))
+* **ci:** circleci launch error ([f81aa8a](https://github.com/icai/nuxt-express-module/commit/f81aa8acaa040d6aed325cc5fed344408ed27b8b))
+* **ci:** circleci launch error ([598801b](https://github.com/icai/nuxt-express-module/commit/598801b9af0c349beb7e52aee206b022a40db59d))
+* **ci:** circleci launch error ([4b7e4d5](https://github.com/icai/nuxt-express-module/commit/4b7e4d5ed038adb6cdcf20479752d9b514ad4df5))
+* **ci:** circleci run bug ([31c76eb](https://github.com/icai/nuxt-express-module/commit/31c76eb8cbaad46ab1108679818a977d75d74834))
+* **ci:** switch yarn to npm ([90cd302](https://github.com/icai/nuxt-express-module/commit/90cd3024a64498ccce0d3b202d10e06d6750753b))
+
 ### [0.0.21](https://github.com/icai/nuxt-express-module/compare/v0.0.20...v0.0.21) (2020-01-01)
 
 
