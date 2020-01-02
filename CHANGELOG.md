@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.23](https://github.com/icai/nuxt-express-module/compare/v0.0.22...v0.0.23) (2020-01-02)
+
+
+### Bug Fixes
+
+* **package:** dependencies lose ([559fa85](https://github.com/icai/nuxt-express-module/commit/559fa8524404ccd070325e4362dacbab1b17c833))
+* **package:** install error ([abaeb8a](https://github.com/icai/nuxt-express-module/commit/abaeb8aa57e7b6489ff1064bcdc1b124f03d1542))
+
 ### [0.0.22](https://github.com/icai/nuxt-express-module/compare/v0.0.21...v0.0.22) (2020-01-01)
 
 
