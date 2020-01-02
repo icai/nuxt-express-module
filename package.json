@@ -33,11 +33,11 @@
     "collectCoverage": true
   },
   "dependencies": {
+    "@w3cub/isrequire": "^1.0.4",
     "express": "^4.17.1",
     "decache": "^4.5.1"
   },
   "devDependencies": {
-    "@w3cub/isrequire": "^1.0.4",
     "codecov": "latest",
     "eslint": "latest",
     "eslint-config-standard": "latest",
