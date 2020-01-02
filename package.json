@@ -33,6 +33,7 @@
     "collectCoverage": true
   },
   "dependencies": {
+    "chokidar": "^3.3.1",
     "@w3cub/isrequire": "^1.0.4",
     "express": "^4.17.1",
     "decache": "^4.5.1"
