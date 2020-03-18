@@ -1,5 +1,5 @@
 {
-  "name": "@w3cub/nuxt-express-module",
+  "name": "nuxt-express-module",
   "version": "0.0.23",
   "description": "",
   "license": "MIT",
@@ -13,9 +13,6 @@
   ],
   "main": "lib/module.js",
   "repository": "https://github.com/icai/nuxt-express-module",
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "dev": "nuxt test/fixture",
     "lint": "eslint lib test --fix",
