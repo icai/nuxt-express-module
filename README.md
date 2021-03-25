@@ -70,3 +70,4 @@ Module Description
 [MIT License](./LICENSE)
 
 Copyright (c) James Lee <uptownhr@gmail.com>
+Terry Cai <gidcai@gmail.com>
