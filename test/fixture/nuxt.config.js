@@ -1,9 +1,21 @@
-const { resolve } = require('path')
+import { resolve } from 'path'
 
-module.exports = {
+export default {
   rootDir: resolve(__dirname, '../..'),
   srcDir: __dirname,
   dev: false,
+  babel: {
+    presets() {
+      return [
+        [
+          '@nuxt/babel-preset-app',
+          {
+            corejs: { version: 3 }
+          }
+        ]
+      ]
+    }
+  },
   render: {
     resourceHints: false
   },

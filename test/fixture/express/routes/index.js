@@ -1,8 +1,8 @@
-const { Router } = require('express')
+import { Router } from 'express'
 const router = Router()
 
 router.get('/api/test', (req, res) => {
   res.send('testing success')
 })
 
-module.exports = router
+export default router

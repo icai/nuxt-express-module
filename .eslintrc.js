@@ -1,6 +1,7 @@
 module.exports = {
   root: true,
   parserOptions: {
+    ecmaVersion: 2020,
     sourceType: 'module'
   },
   env: {
@@ -8,7 +9,7 @@ module.exports = {
     node: true,
     jest: true
   },
-  extends: 'standard',
+  extends: ["eslint:recommended", "prettier"],
   plugins: [
     'jest',
     'vue'
