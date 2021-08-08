@@ -5,16 +5,11 @@ export default {
   srcDir: __dirname,
   dev: false,
   babel: {
-    presets() {
-      return [
-        [
-          '@nuxt/babel-preset-app',
-          {
-            corejs: { version: 3 }
-          }
-        ]
-      ]
-    }
+    plugins: [
+      ['@babel/plugin-proposal-class-properties', { loose: true }],
+      ['@babel/plugin-proposal-private-methods', { loose: true }],
+      ['@babel/plugin-proposal-private-property-in-object', { loose: true }],
+    ]
   },
   render: {
     resourceHints: false
